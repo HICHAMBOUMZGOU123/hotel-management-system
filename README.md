@@ -19,7 +19,6 @@ Le projet est structuré selon le modèle MVC :
 ## 🛠 Technologies utilisées
 
 - Java
-- IntelliJ IDEA
 - Programmation Orientée Objet (POO)
 - Architecture MVC
 
@@ -61,12 +60,19 @@ src/
 <p align="center">
   <img src="Visualisation du projet/Fenetre_gestionemployés.jpeg" width="900"/>
 </p>
-
+Visualisation du projet/Fenetre_gestionsejour.jpeg
 ---
 
 ## 📅 Gestion des Réservations
 <p align="center">
   <img src="Visualisation du projet/Fenetre_gestionreservation.jpeg" width="900"/>
+</p>
+
+---
+
+## 📅 Gestion des Séjours
+<p align="center">
+  <img src="Visualisation du projet/Fenetre_gestionsejour.jpeg" width="900"/>
 </p>
 
 ---
