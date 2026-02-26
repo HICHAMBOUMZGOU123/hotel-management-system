@@ -50,16 +50,16 @@ src/
 
 ---
 
-## 🛏 Gestion des Chambres
+##  Gestion des Chambres
 <p align="center">
   <img src="Visualisation du projet/Fenetre_gestionchambre.jpeg" width="900"/>
 </p>
 
 ---
 
-## 👥 Gestion des Clients
+## 👥 Gestion des Employés
 <p align="center">
-  <img src="visualisation du proje/Fenetre_gestionclient.png" width="900"/>
+  <img src="Visualisation du projet/Fenetre_gestionemployés.jpeg" width="900"/>
 </p>
 
 ---
