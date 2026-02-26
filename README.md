@@ -45,7 +45,7 @@ src/
 
 ##  Fenetre gestion clients
 <p align="center">
-  <img src="visualisation du projet/Fenetre_gestionclient.png" width="900"/>
+  <img src="Visualisation du projet/Fenetre_gestionclient.jpeg" width="900"/>
 </p>
 
 ---
