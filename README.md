@@ -73,7 +73,7 @@ src/
 
 ## 🧹 Gestion des Ménages
 <p align="center">
-  <img src="visualisation du proje/Fenetre_gestionmenage.png" width="900"/>
+  <img src="Visualisation du projet/Fenetre_gestionmenage.jpeg width="900"/>
 </p>
 
 ---
