@@ -52,7 +52,7 @@ src/
 
 ## 🛏 Gestion des Chambres
 <p align="center">
-  <img src="visualisation du proje/Fenetre_gestionchambre.png" width="900"/>
+  <img src="Visualisation du projet/Fenetre_gestionchambre.jpeg" width="900"/>
 </p>
 
 ---
