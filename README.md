@@ -66,7 +66,7 @@ src/
 
 ## 📅 Gestion des Réservations
 <p align="center">
-  <img src="visualisation du proje/Fenetre_gestionreservation.png" width="900"/>
+  <img src="Visualisation du projet/Fenetre_gestionreservation.jpeg" width="900"/>
 </p>
 
 ---
