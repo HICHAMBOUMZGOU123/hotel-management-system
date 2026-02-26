@@ -38,3 +38,51 @@ src/
 ├── model/
 └── vue/
 ```
+
+---
+
+# 📸 Aperçu de l'application
+
+##  Fenetre gestion clients
+<p align="center">
+  <img src="visualisation du projet/Fenetre_gestionclient.png" width="900"/>
+</p>
+
+---
+
+## 🛏 Gestion des Chambres
+<p align="center">
+  <img src="visualisation du proje/Fenetre_gestionchambre.png" width="900"/>
+</p>
+
+---
+
+## 👥 Gestion des Clients
+<p align="center">
+  <img src="visualisation du proje/Fenetre_gestionclient.png" width="900"/>
+</p>
+
+---
+
+## 📅 Gestion des Réservations
+<p align="center">
+  <img src="visualisation du proje/Fenetre_gestionreservation.png" width="900"/>
+</p>
+
+---
+
+## 🧹 Gestion des Ménages
+<p align="center">
+  <img src="visualisation du proje/Fenetre_gestionmenage.png" width="900"/>
+</p>
+
+---
+
+## 🎯 Objectif pédagogique
+
+Ce projet a été réalisé afin de :
+
+- Maîtriser la conception orientée objet
+- Mettre en place une architecture MVC propre
+- Structurer un projet Java professionnel
+- Développer une interface graphique complète
